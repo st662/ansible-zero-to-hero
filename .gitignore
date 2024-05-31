@@ -21,4 +21,4 @@
 go.work
 
 ######
-**/*.pem
+**/target-keypair.pem
